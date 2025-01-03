@@ -1,2 +1,2 @@
-# auto_tests_course
+# auto_tests
 auto test assignments
